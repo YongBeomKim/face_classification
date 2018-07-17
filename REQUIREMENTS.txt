@@ -1,7 +1,11 @@
-keras==2.0.5
-tensorflow==1.1.0
-pandas==0.19.1
-numpy==1.12.1
-h5py==2.7.0
-statistics
-opencv2-python==3.2.0
+h5py==2.7.0  
+Keras==2.0.5  
+matplotlib >= 2.2.2  
+numpy==1.14.5 
+opencv-python==3.2.0.6
+pandas==0.19.1 
+Pillow==5.2.0  
+scipy==1.1.0
+statistics==1.0.3.5
+tensorflow==1.1.0  
+Theano==1.0.2  
